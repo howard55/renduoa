@@ -19,7 +19,7 @@ locale                   : "zh-CN"
 title                    : "臭猴子的遛马地"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Howard Ge"
+name                     : "Renduoa"
 description              : "技术、生活、畅想"
 url                      : # the base hostname & protocol for your site e.g. "https://renduoa.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
