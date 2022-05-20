@@ -13,7 +13,7 @@ main:
   
 
   - title: "Posts"
-    url: /year-archive/
+    url: /_posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
